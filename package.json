@@ -1,0 +1,25 @@
+{
+  "name": "software-engineering-class-node",
+  "version": "1.0.0",
+  "description": "Node.js project for College Software Engineering Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosmtt/Software-Engineering-Class-Node.js.git"
+  },
+  "author": "Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosmtt/Software-Engineering-Class-Node.js/issues"
+  },
+  "homepage": "https://github.com/marcosmtt/Software-Engineering-Class-Node.js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2",
+    "node-restful": "^0.2.6"
+  }
+}
